@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc2626bfcc63b544a8b2513bb0737b81, type: 3}
+  m_Name: Stealth
+  m_EditorClassIdentifier: 
+  statusType: 10
+  statusName: Stealth
+  iconSprite: {fileID: 21300000, guid: 70153632b68668642b31c247a46f770b, type: 3}
+  canStack: 0
+  maxStacks: 99
+  effectDescription: 'Evade next attack received. Lose stealth at end of next turn;
+
+    if
+    effect not triggered when it ends, reapply 1 stack of water relic to self'

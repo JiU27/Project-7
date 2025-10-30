@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc2626bfcc63b544a8b2513bb0737b81, type: 3}
+  m_Name: Vulnerable
+  m_EditorClassIdentifier: 
+  statusType: 16
+  statusName: Vulnerable
+  iconSprite: {fileID: 21300000, guid: fd026e85e91ede4459267e828e54074c, type: 3}
+  canStack: 1
+  maxStacks: 99
+  effectDescription: 'Affected target''s next taken damage increased by 50%, lose
+    1 stack  at end of next turn;
+
+    If attack type is "Physical", this attack
+    damage increased by 100%;'

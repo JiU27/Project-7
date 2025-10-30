@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e052163ef02bee74ca333dc7577422ba, type: 3}
+  m_Name: Viy
+  m_EditorClassIdentifier: 
+  id: 1001
+  characterName: Viy
+  maxHealth: 50
+  initialArmor: 0
+  characterPrefab: {fileID: 7668159835671959092, guid: c5eb78871a269d846b12a116df469059, type: 3}
+  audioData:
+    takeDamageNoArmor: {fileID: 0}
+    takeDamageWithArmor: {fileID: 0}
+    attack: {fileID: 0}
+    heal: {fileID: 0}
+    gainArmor: {fileID: 0}

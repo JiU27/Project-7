@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc2626bfcc63b544a8b2513bb0737b81, type: 3}
+  m_Name: Inaccuracy
+  m_EditorClassIdentifier: 
+  statusType: 15
+  statusName: Inaccuracy
+  iconSprite: {fileID: 21300000, guid: 225d264cea986c14dbb4c40ced0a23c3, type: 3}
+  canStack: 0
+  maxStacks: 99
+  effectDescription: Affected target's attack hit rate reduced by 50%, lose Inaccuracy
+    at end of next turn

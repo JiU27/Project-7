@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d82c3b1aaa0353f4ba8570cfb75a62c7, type: 3}
+  m_Name: Deer 4
+  m_EditorClassIdentifier: 
+  id: 4004
+  cardName: Natural Impact
+  baseSpeed: 5
+  cardClass: 0
+  cardType: 2
+  elementType: 0
+  cardArt: {fileID: 0}
+  fullCardSprite: {fileID: 0}
+  cardEffect:
+    isInherent: 0
+    dealsDamage: 1
+    damageAmount: 8
+    isAoE: 0
+    healsHealth: 1
+    healAmount: 4
+    grantsArmor: 0
+    armorAmount: 0
+    grantsStatusEffect: 0
+    statusType: 0
+    statusStacks: 0
+    isInstantCast: 0
+  effectDescription: 
+  animationTrigger: 0
